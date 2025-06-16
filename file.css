@@ -1,0 +1,43 @@
+body{
+    background-color:blue;
+    text-align: center;
+    display: flex;
+    
+}
+
+h1{
+    color: chocolate;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+    color: white;
+    margin: 25px;
+    padding: 25px;
+    justify-items: center;
+    display: flex;
+    flex-direction: column;  
+    text-align: center;
+
+    
+}
+
+input{text-align: center;
+    border-color: gold;
+    border-radius: 15px;
+}
+
+select{
+    text-align: center;
+    border-color: gold;
+    border-radius: 20px;
+}
+
+
+
